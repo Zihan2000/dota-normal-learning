@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 28 14:03:12 CST 2023
+ta-1.0-SNAPSHOT-sources.jar>=
+ta-1.0-SNAPSHOT.jar>=
+ta-1.0-SNAPSHOT.pom>=
